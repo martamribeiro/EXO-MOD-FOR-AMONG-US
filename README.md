@@ -48,12 +48,13 @@ What to do if the mod creates problems in your game:
 2. "globalgamesmanagers.assets" and "sharedassets0.assets" files.
 3. Go to your Among Us data folder.
 4. Paste the files there. (They will replace the modded "globalgamesmanagers.assets" and "sharedassets0.assets" files)
+
 Note: If this happens, it's probably because the mod was made for a different version of the game.
 Once I notice that the version is different, I'll do an updated version of the mod.
 
 ## WHERE TO CONTACT ME
-Github: martamribeiro
-Email: martammrib@gmail.com
+* Github: martamribeiro
+* Email: martammrib@gmail.com
 
 ## NOTES
 I do not claim any right over the game. I only made some modifications in the original files.
