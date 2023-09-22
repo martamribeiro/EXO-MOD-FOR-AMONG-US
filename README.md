@@ -1,6 +1,33 @@
 # EXO-MOD-FOR-AMONG-US
 This is a fanmade Among Us mod for EXO fans. I do not claim any right over the game. I only made some modifications in the original assets files. I also do not claim any right over EXO. This is only a fanmade mod. All rights reserved to the respective copyright owners.
 
+## SOME OF THE CHANGES
+
+### Menu
+
+![Menu Change](./ModPhotos/menu.png "Menu Change")
+
+### Map
+
+![Map Change](./ModPhotos/mapChange1.png "Map Change")
+
+### Accessories
+
+![Accessorie Change](./ModPhotos/accessorie1.png "Accessorie Change")
+
+### Buttons
+
+![Button Change](./ModPhotos/button1.png "Button Change")
+
+### Missions
+
+![Mission Change](./ModPhotos/mission1.png "Mission Change")
+
+### Other Changes
+
+* "Imposter" was updated to "X EXO-L"
+* "Tripulant" was updated to "EXO-L"
+
 ## IMPORTANT FIRST STEP
 Before putting the mod in your game:
 1. Go to your Among Us data folder.
