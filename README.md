@@ -26,9 +26,8 @@ Note: If this happens, it's probably because the mod was made for a different ve
 Once I notice that the version is different, I'll do an updated version of the mod.
 
 ## WHERE TO CONTACT ME
-Github: martamribeiro
-
-Email: martammrib@gmail.com
+* Github: martamribeiro
+* Email: martammrib@gmail.com
 
 ## NOTES
 I do not claim any right over the game. I only made some modifications in the original files.
